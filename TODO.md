@@ -23,3 +23,5 @@ Code
 * issues anschauen
 * init process ohne .tpl
 * list untereinander
+* delimiters
+* custom script
