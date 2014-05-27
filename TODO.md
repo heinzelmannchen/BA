@@ -10,8 +10,8 @@ Doku
     * workflow
         * zuerst genau beschrieben was sind die wichtigsten WFs
         * evt. für bestehendes proj
-* benutzeranleitung
-    * anwendungs fälle
+* -benutzeranleitung-
+    * -anwendungs fälle-
 * Vorwort
 * titelseite
 * abstract / Zusammenfassung
@@ -25,3 +25,4 @@ Code
 * list untereinander
 * delimiters
 * custom script
+* create cwd
